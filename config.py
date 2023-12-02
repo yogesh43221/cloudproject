@@ -1,0 +1,6 @@
+customhost = "employee.cpnpupowehlh.us-east-1.rds.amazonaws.com"
+customuser = "admin"
+custompass = "admin123"
+customdb = "employee"
+custombucket = "addemployee"
+customregion = "us-east-1"
